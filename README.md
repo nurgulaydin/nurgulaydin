@@ -1,7 +1,7 @@
 ## NURGUL AYDİN 🍀
 
 ### About me:
-I am a student of Computer Engineering Department. I'm studying on learning new programming languages and its fundamentals; I make basic and intermediate projects.
+Computer Engineer
 
 ### 📩 Connect with me:
 [<img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
