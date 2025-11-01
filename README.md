@@ -12,7 +12,7 @@ Computer Engineer
 <br />
 
 [instagram]: https://www.instagram.com/aspromuskar
-[linkedin]: https://www.linkedin.com/in/nurgül-aydın-2b7b94209/
+[linkedIn]: https://www.linkedin.com/in/nurgül-aydın-2b7b94209/
 [gmail]: mailto:aydinnurgul87@gmail.com
 [twitter]: https://WWW.twitter.com/aspromuskar
 
